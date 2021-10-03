@@ -1,1 +1,1 @@
-# g-n-rer_le_qrcode
+# générer le qrcode
