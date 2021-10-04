@@ -1,4 +1,4 @@
-## Générer du code QR avec le Python
+## Générer du code QR avec Python
 
 Python a une bibliothèque « qrcode » pour générer des images de code QR. Il peut être installé à l’aide de pip
 
